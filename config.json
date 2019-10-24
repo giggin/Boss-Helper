@@ -66,329 +66,329 @@
             {
                 "huntingZoneId": 2,
                 "templateId": 1271,
-                "name": "[Arcadia]Arcun(Fey Forest)"
+                "name": "Arcun"
             },
             {
                 "huntingZoneId": 3,
                 "templateId": 1271,
-                "name": "[Arcadia]Arcun(Oblivion Woods)"
+                "name": "Arcun"
             },
             {
                 "huntingZoneId": 5,
                 "templateId": 1271,
-                "name": "[Arcadia]Arcun(Tuwangi Mire)"
+                "name": "Arcun"
             },
             {
                 "huntingZoneId": 6,
                 "templateId": 1271,
-                "name": "[Arcadia]Arcun(Valley of Titans)"
+                "name": "Arcun"
             },
             {
                 "huntingZoneId": 7,
                 "templateId": 1271,
-                "name": "[Arcadia]Arcun(Celestial Hills)"
+                "name": "Arcun"
             },
             {
                 "huntingZoneId": 4,
                 "templateId": 1271,
-                "name": "[Ostgarath]Eteral(Fyrmount)"
+                "name": "Eteral"
             },
             {
                 "huntingZoneId": 9,
                 "templateId": 1271,
-                "name": "[Ostgarath]Eteral(Ascension Valley)"
+                "name": "Eteral"
             },
             {
                 "huntingZoneId": 10,
                 "templateId": 1271,
-                "name": "[Ostgarath]Eteral(Serpentis Isle)"
+                "name": "Eteral"
             },
             {
                 "huntingZoneId": 11,
                 "templateId": 1271,
-                "name": "[Ostgarath]Eteral(Jagged Coast)"
+                "name": "Eteral"
             },
             {
                 "huntingZoneId": 12,
                 "templateId": 1271,
-                "name": "[Ostgarath]Eteral(Mistmoor Island)"
+                "name": "Eteral"
             },
             {
                 "huntingZoneId": 15,
                 "templateId": 1271,
-                "name": "[Poporia]Foretta(Cliffs of Insanity)"
+                "name": "Foretta"
             },
             {
                 "huntingZoneId": 16,
                 "templateId": 1271,
-                "name": "[Poporia]Foretta(Vale of the Fang)"
+                "name": "Foretta"
             },
             {
                 "huntingZoneId": 17,
                 "templateId": 1271,
-                "name": "[Poporia]Foretta(Paraanon Ravine)"
+                "name": "Foretta"
             },
             {
                 "huntingZoneId": 23,
                 "templateId": 1271,
-                "name": "[Poporia]Foretta(Lake of Tears)"
+                "name": "Foretta"
             },
             {
                 "huntingZoneId": 18,
                 "templateId": 1271,
-                "name": "[Val Aureum]Viadu(Colossal Ruins)"
+                "name": "Viadu"
             },
             {
                 "huntingZoneId": 19,
                 "templateId": 1271,
-                "name": "[Val Aureum]Viadu(Freeholds)"
+                "name": "Viadu"
             },
             {
                 "huntingZoneId": 21,
                 "templateId": 1271,
-                "name": "[Val Aureum]Viadu(Basilisk Crag)"
+                "name": "Viadu"
             },
             {
                 "huntingZoneId": 24,
                 "templateId": 1271,
-                "name": "[Val Aureum]Viadu(Aurum Road)"
+                "name": "Viadu"
             },
             {
                 "huntingZoneId": 26,
                 "templateId": 1271,
-                "name": "[Essenia]Ezart(Blessing Basin)"
+                "name": "Ezart"
             },
             {
                 "huntingZoneId": 27,
                 "templateId": 1271,
-                "name": "[Essenia]Ezart(Essenian Crest)"
+                "name": "Ezart"
             },
             {
                 "huntingZoneId": 28,
                 "templateId": 1271,
-                "name": "[Essenia]Ezart(Blightwood)"
+                "name": "Ezart"
             },
             {
                 "huntingZoneId": 29,
                 "templateId": 1271,
-                "name": "[Essenia]Ezart(Timeless Woods)"
+                "name": "Ezart"
             },
             {
                 "huntingZoneId": 30,
                 "templateId": 1271,
-                "name": "[Veritas]Versa(Balder's Refuge)"
+                "name": "Versa"
             },
             {
                 "huntingZoneId": 31,
                 "templateId": 1271,
-                "name": "[Westonia]Storan(Tempest Reach)"
+                "name": "Storan"
             },
             {
                 "huntingZoneId": 32,
                 "templateId": 1271,
-                "name": "[Westonia]Storan(Mount Tyrannas)"
+                "name": "Storan"
             },
             {
                 "huntingZoneId": 34,
                 "templateId": 1271,
-                "name": "[Westonia]Storan(Frost Reach)"
+                "name": "Storan"
             },
             {
                 "huntingZoneId": 35,
                 "templateId": 1271,
-                "name": "[Val Elenium]Viace(Wyrmgorge)"
+                "name": "Viace"
             },
             {
                 "huntingZoneId": 36,
                 "templateId": 1271,
-                "name": "[Val Elenium]Viace(Tor Exsul)"
+                "name": "Viace"
             },
             {
                 "huntingZoneId": 38,
                 "templateId": 1271,
-                "name": "[Val Elenium]Viace(Sienna Canyon)"
+                "name": "Viace"
             },
             {
                 "huntingZoneId": 40,
                 "templateId": 1271,
-                "name": "[Val Palrada]Vaneva(Quarantine Zone)"
+                "name": "Vaneva"
             },
             {
                 "huntingZoneId": 41,
                 "templateId": 1271,
-                "name": "[Val Palrada]Vaneva(Feral Valley)"
+                "name": "Vaneva"
             },
             {
                 "huntingZoneId": 45,
                 "templateId": 1271,
-                "name": "[Val Tirkai]Lotica(Thrallhold)"
+                "name": "Lotica()"
             },
             {
                 "huntingZoneId": 47,
                 "templateId": 1271,
-                "name": "[Val Tirkai]Lotica(Tirkai Forest)"
+                "name": "Lotica"
             },
             {
                 "huntingZoneId": 48,
                 "templateId": 1271,
-                "name": "[Helkan District]Hecurn(Khanovar Front)"
+                "name": "Hecurn"
             },
             {
                 "huntingZoneId": 49,
                 "templateId": 1271,
-                "name": "[Val Kaeli]Locarnum(Argonea)"
+                "name": "Locarnum"
             },
             {
                 "huntingZoneId": 50,
                 "templateId": 1271,
-                "name": "[Val Kaeli]Locarnum(Granarkus)"
+                "name": "Locarnum"
             },
             {
                 "huntingZoneId": 51,
                 "templateId": 1271,
-                "name": "[Lorcada]Loahcun(Vale of Spires)"
+                "name": "Loahcun"
             },
             {
                 "huntingZoneId": 52,
                 "templateId": 1271,
-                "name": "[Lorcada]Loahcun(Plain of the Damned)"
+                "name": "Loahcun"
             },
             {
                 "huntingZoneId": 54,
                 "templateId": 1271,
-                "name": "[Sylvanoth]Silvette(Seeliewood)"
+                "name": "Silvette"
             },
             {
                 "huntingZoneId": 55,
                 "templateId": 1271,
-                "name": "[Sylvanoth]Silvette(Darkquaver Woods)"
+                "name": "Silvette"
             },
             {
                 "huntingZoneId": 56,
                 "templateId": 1271,
-                "name": "[Sylvanoth]Silvette(Susurrus Woods)"
+                "name": "Silvette"
             },
             {
                 "huntingZoneId": 57,
                 "templateId": 1271,
-                "name": "[Sylvanoth]Silvette(Amena Quatla)"
+                "name": "Silvette"
             },
             {
                 "huntingZoneId": 172,
                 "templateId": 1271,
-                "name": "[Val Oriyn]Varrek(Savage Reach)"
+                "name": "Varrek"
             },
             {
                 "huntingZoneId": 181,
                 "templateId": 1271,
-                "name": "[Val Oriyn]Varrek(Ex Prima)"
+                "name": "Varrek"
             },
             {
                 "huntingZoneId": 182,
                 "templateId": 1271,
-                "name": "[Val Oriyn]Varrek(Spring Valley)"
+                "name": "Varrek"
             },
             {
                 "huntingZoneId": 183,
                 "templateId": 1278,
-                "name": "[Val Oriyn]Varrek(Highwatch Outskirts)"
+                "name": "Varrek"
             },
             {
                 "huntingZoneId": 191,
                 "templateId": 1271,
-                "name": "[Val Oriyn]Varrek(Arx Umbra)"
+                "name": "Varrek"
             },
             {
                 "huntingZoneId": 13,
                 "templateId": 1271,
-                "name": "[Island of Dawn]Vardung(Island of Dawn)"
+                "name": "Vardung"
             },
             {
                 "huntingZoneId": 63,
                 "templateId": 1278,
-                "name": "[Velika]Veracun(Velika)"
+                "name": "Veracun"
             },
             {
                 "huntingZoneId": 72,
                 "templateId": 1278,
-                "name": "[Allemantheia]Alluman(Allemantheia)"
+                "name": "Alluman"
             },
             {
                 "huntingZoneId": 84,
                 "templateId": 1278,
-                "name": "[Kaiator]Kaidera(Kaiator)"
+                "name": "Kaidera"
             },
             {
                 "huntingZoneId": 63,
                 "templateId": 1271,
-                "name": "Petam(Velika)"
+                "name": "Petam"
             },
             {
                 "huntingZoneId": 63,
                 "templateId": 1279,
-                "name": "Petam(Velika)"
+                "name": "Petam"
             },
             {
                 "huntingZoneId": 72,
                 "templateId": 1271,
-                "name": "Hemusk(Allemantheia)"
+                "name": "Hemusk"
             },
             {
                 "huntingZoneId": 84,
                 "templateId": 1271,
-                "name": "Kaylight(Kaiator)"
+                "name": "Kaylight"
             },
             {
                 "huntingZoneId": 183,
                 "templateId": 1271,
-                "name": "Jondo(Highwatch Outskirts)"
+                "name": "Jondo"
             },
             {
                 "huntingZoneId": 63,
                 "templateId": 1276,
                 "logTime": 0,
-                "name": "Starc(Velika)"
+                "name": "Starc"
             },
             {
                 "huntingZoneId": 63,
                 "templateId": 1284,
-                "name": "Starc(Velika)"
+                "name": "Starc"
             },
             {
                 "huntingZoneId": 84,
                 "templateId": 1276,
                 "logTime": 0,
-                "name": "Starc(Allemantheia)"
+                "name": "Starc"
             },
             {
                 "huntingZoneId": 72,
                 "templateId": 1276,
                 "logTime": 0,
-                "name": "Starc(Kaiator)"
+                "name": "Starc"
             },
             {
                 "huntingZoneId": 183,
                 "templateId": 1276,
                 "logTime": 0,
-                "name": "Starc(Highwatch Outskirts)"
+                "name": "Starc"
             },
             {
                 "huntingZoneId": 26,
                 "templateId": 5001,
                 "logTime": 0,
-                "name": "Ortan(Блаженное Озеро)"
+                "name": "Ortan"
             },
             {
                 "huntingZoneId": 39,
                 "templateId": 501,
-                "logTime": 0,
-                "name": "Hazard(Arachnaea)"
+                "logTime": 1571938350828,
+                "name": "Hazard"
             },
             {
                 "huntingZoneId": 51,
                 "templateId": 4001,
-                "logTime": 0,
-                "name": "Cerrus(Vale of Spires)"
+                "logTime": 1571938007982,
+                "name": "Cerrus"
             },
             {
                 "huntingZoneId": 2020,
