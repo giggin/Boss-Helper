@@ -1,19 +1,18 @@
 # Boss-Helper 
 ======
 
-# Инструкция
+# Instructions
 
-Указатель баммов,торговца, когда появится в пределах видимости,
-отправит соответствующее текстовое уведомление и отметит местоположение.
+Shows NPCs (Monster / World Boss / Mystery Merchant), that appear in visible range, sends the corresponding text and marks their position.
 
 ------
 
-/8команды  | описание
+/8 Command  | Description
 --- | ---
-bh | Включение мода (По умолчанию включено)
-bh alert | Включение всплывающего оповещения
-bh msg | Включение системных сообщений
+bh | Enables/disables the mod
+bh alert | Enables/disables alert
+bh msg | Enables/disables system messages
 bh log | Ведение журнала сообщений в канале агента
-bh marker | Включение столба свечения
-bh clear | Очистить маркировку экрана
-bh upd | Время появления трех мировых боссов и городских торговцев
+bh marker | Enables/disables lootbeam
+bh clear | Clears log
+bh upd | Shows the time of the next appearance of Mystery Merchants and World Bosses

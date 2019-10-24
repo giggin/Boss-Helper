@@ -8,7 +8,7 @@
         "settingsVersion": 9
     },
     "author": "Giraffno",
-    "description": "Indicates NPCs (Monster / World Boss / Mystery Merchant), that appear in visible range, sends the corresponding text and marks their position",
+    "description": "Shows NPCs (Monster / World Boss / Mystery Merchant), that appear in visible range, sends the corresponding text and marks their position",
     "servers": ["https://raw.githubusercontent.com/giggin/Boss-Helper/master/"],
     "supportUrl": "https://github.com/giggin/Boss-Helper/issues",
     "dependencies": {
