@@ -1,8 +1,11 @@
 {
     "files": {
-        "index.js": "df2dedd18bd948701399fbc263e4b6b9f6ba904d4d259604d84475e9ff8ede41",
-        "module.json": "012d9aaf24e8d0bf8db81dab3b6baa694ef27aaaad01b5770a528dc7d71406af",
-        "settings_migrator.js": "8a63fc97710230d75d8eed7a35b0d7271073f3e10b53a9e45148ece5a0038cfd"
+        "README.md": "a43be1932ad635eb717a57d26c50d95526b588b2194f947cb77ce09ee47e88b3",
+        "config.json": "0d9a6816029173f7e5c78ea5f2bae9a0be9bfc51f8760c42cd41658cea02caf7",
+        "index.js": "ac140c5c31882cf59aefa109fe58946a0a6985840f5e66a0b07ddb2af26ddbcd",
+        "module.config.json": "fccfa1f9e19b11a6d58abbc07369f696ed9ea3873e263f6a2adf8e04d672d4d4",
+        "module.json": "8c5d1c7ea798b9a8778ed694082282cc3daf0f7a5dc961b220bc6ffc2e2e9b49",
+        "settings_migrator.js": "19f117800cde5164e0e19501387aa5a65123757103019290ef5a4744cc4c5f57"
     },
     "defs": {
         "S_BOSS_GAGE_INFO": 3,
