@@ -1,5 +1,6 @@
 # Boss-Helper 
-======
+
+I am not the one who made this module, I'm just mantaining it.
 
 # Instructions
 
