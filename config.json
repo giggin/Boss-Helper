@@ -363,7 +363,7 @@
             {
                 "huntingZoneId": 72,
                 "templateId": 1276,
-                "logTime": 1572029677947,
+                "logTime": 1575723348869,
                 "name": "Starc (Allemantheia)"
             },
             {
@@ -375,20 +375,25 @@
             {
                 "huntingZoneId": 26,
                 "templateId": 5001,
-                "logTime": 1572094177776,
+                "logTime": 1575738507002,
                 "name": "Ortan"
             },
             {
                 "huntingZoneId": 39,
                 "templateId": 501,
-                "logTime": 1571938350828,
+                "logTime": 1575739765576,
                 "name": "Hazard"
             },
             {
                 "huntingZoneId": 51,
                 "templateId": 4001,
-                "logTime": 1572096982995,
+                "logTime": 1575737308663,
                 "name": "Cerrus"
+            },
+            {
+                "huntingZoneId": 1023,
+                "templateId": 8000,
+                "name": "Caiman Wanderer"
             },
             {
                 "huntingZoneId": 2020,

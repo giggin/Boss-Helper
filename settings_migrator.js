@@ -48,6 +48,7 @@ const DefaultSettings = {
         {huntingZoneId:  35, templateId: 1271, name: "Viace"},
         {huntingZoneId:  36, templateId: 1271, name: "Viace"},
         {huntingZoneId:  38, templateId: 1271, name: "Viace"},
+		{huntingZoneId:  1023, templateId: 8000, name: "Caiman Wanderer"},
         {huntingZoneId:  40, templateId: 1271, name: "Vaneva"},
         {huntingZoneId:  41, templateId: 1271, name: "Vaneva"},
 /* ==== 夏拉北部 ======================================================================================== */
