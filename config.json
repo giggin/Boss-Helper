@@ -63,15 +63,16 @@
                 "templateId": 6002,
                 "name": "(Event)AirDrop"
             },
-		{
+			{
 				"huntingZoneId": 1023,
 				"templateId": 200002,
 				"name": "(Event)Grumpy Santa"
-		},
+			},
 			{
 				"huntingZoneId": 1023,
 				"templateId": 200003,
 				"name": "(Event)Tiny Santa"
+			},
             {
                 "huntingZoneId": 2,
                 "templateId": 1271,
