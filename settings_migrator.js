@@ -17,6 +17,8 @@ const DefaultSettings = {
         {huntingZoneId: 1023, templateId: 99999992, name: "(Event)Caiman Egg Thief"},
         {huntingZoneId: 1023, templateId: 99999999, name: "(Event)Caiman Egg Thief"},
         {huntingZoneId:  183, templateId:     6002, name: "(Event)AirDrop"},
+		{huntingZoneId: 1023, templateId:   200002, name: "(Event)Grumpy Santa"}
+		{huntingZoneId: 1023, templateId:   200003, name: "(Event)Tiny Santa"}
 /* ==== 亚伦南部 ======================================================================================== */
         {huntingZoneId:   2, templateId: 1271, name: "Arcun"},
         {huntingZoneId:   3, templateId: 1271, name: "Arcun"},
