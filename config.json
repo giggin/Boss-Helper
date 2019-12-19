@@ -1,68 +1,68 @@
 {
-    "version": 9,
-    "data": {
-        "enabled": true,
-        "alerted": true,
-        "notice": true,
-        "messager": true,
-        "marker": true,
-        "itemId": 98260,
-        "bosses": [
-            {
-                "huntingZoneId": 1023,
-                "templateId": 3000,
-                "name": "(Event)Dakuryon's Shade"
-            },
-            {
-                "huntingZoneId": 1023,
-                "templateId": 20150805,
-                "name": "(Event)Dakuryon's Shade"
-            },
-            {
-                "huntingZoneId": 1023,
-                "templateId": 88888888,
-                "name": "(Event)Big Blue Box"
-            },
-            {
-                "huntingZoneId": 1023,
-                "templateId": 88888889,
-                "name": "(Event)Big Blue Box"
-            },
-            {
-                "huntingZoneId": 1023,
-                "templateId": 160341,
-                "name": "(Event)Phoney Santa"
-            },
-            {
-                "huntingZoneId": 1023,
-                "templateId": 99999997,
-                "name": "(Event)Fat Santa"
-            },
-            {
-                "huntingZoneId": 1023,
-                "templateId": 99999998,
-                "name": "(Event)Tiny Santa"
-            },
-            {
-                "huntingZoneId": 1023,
-                "templateId": 99999991,
-                "name": "(Event)Caiman Egg Thief"
-            },
-            {
-                "huntingZoneId": 1023,
-                "templateId": 99999992,
-                "name": "(Event)Caiman Egg Thief"
-            },
-            {
-                "huntingZoneId": 1023,
-                "templateId": 99999999,
-                "name": "(Event)Caiman Egg Thief"
-            },
-            {
-                "huntingZoneId": 183,
-                "templateId": 6002,
-                "name": "(Event)AirDrop"
-            },
+	"version": 9,
+	"data": {
+		"enabled": true,
+		"alerted": true,
+		"notice": true,
+		"messager": true,
+		"marker": true,
+		"itemId": 98260,
+		"bosses": [
+			{
+				"huntingZoneId": 1023,
+				"templateId": 3000,
+				"name": "(Event)Dakuryon's Shade"
+			},
+			{
+				"huntingZoneId": 1023,
+				"templateId": 20150805,
+				"name": "(Event)Dakuryon's Shade"
+			},
+			{
+				"huntingZoneId": 1023,
+				"templateId": 88888888,
+				"name": "(Event)Big Blue Box"
+			},
+			{
+				"huntingZoneId": 1023,
+				"templateId": 88888889,
+				"name": "(Event)Big Blue Box"
+			},
+			{
+				"huntingZoneId": 1023,
+				"templateId": 160341,
+				"name": "(Event)Phoney Santa"
+			},
+			{
+				"huntingZoneId": 1023,
+				"templateId": 99999997,
+				"name": "(Event)Fat Santa"
+			},
+			{
+				"huntingZoneId": 1023,
+				"templateId": 99999998,
+				"name": "(Event)Tiny Santa"
+			},
+			{
+				"huntingZoneId": 1023,
+				"templateId": 99999991,
+				"name": "(Event)Caiman Egg Thief"
+			},
+			{
+				"huntingZoneId": 1023,
+				"templateId": 99999992,
+				"name": "(Event)Caiman Egg Thief"
+			},
+			{
+				"huntingZoneId": 1023,
+				"templateId": 99999999,
+				"name": "(Event)Caiman Egg Thief"
+			},
+			{
+				"huntingZoneId": 183,
+				"templateId": 6002,
+				"name": "(Event)AirDrop"
+			},
 			{
 				"huntingZoneId": 1023,
 				"templateId": 200002,
@@ -73,398 +73,398 @@
 				"templateId": 200003,
 				"name": "(Event)Tiny Santa"
 			},
-            {
-                "huntingZoneId": 2,
-                "templateId": 1271,
-                "name": "Arcun (Fey Forest)"
-            },
-            {
-                "huntingZoneId": 3,
-                "templateId": 1271,
-                "name": "Arcun (Oblivion Woods)"
-            },
-            {
-                "huntingZoneId": 5,
-                "templateId": 1271,
-                "name": "Arcun (Tuwangi Mire)"
-            },
-            {
-                "huntingZoneId": 6,
-                "templateId": 1271,
-                "name": "Arcun (Valley of Titans)"
-            },
-            {
-                "huntingZoneId": 7,
-                "templateId": 1271,
-                "name": "Arcun (Celestial Hills)"
-            },
-            {
-                "huntingZoneId": 4,
-                "templateId": 1271,
-                "name": "Eteral (Fyrmount)"
-            },
-            {
-                "huntingZoneId": 9,
-                "templateId": 1271,
-                "name": "Eteral (Ascension Valley)"
-            },
-            {
-                "huntingZoneId": 10,
-                "templateId": 1271,
-                "name": "Eteral (Serpentis Isle)"
-            },
-            {
-                "huntingZoneId": 11,
-                "templateId": 1271,
-                "name": "Eteral (Jagged Coast)"
-            },
-            {
-                "huntingZoneId": 12,
-                "templateId": 1271,
-                "name": "Eteral (Mistmoor Island)"
-            },
-            {
-                "huntingZoneId": 15,
-                "templateId": 1271,
-                "name": "Foretta (Cliffs of Insanity)"
-            },
-            {
-                "huntingZoneId": 16,
-                "templateId": 1271,
-                "name": "Foretta (Vale of the Fang)"
-            },
-            {
-                "huntingZoneId": 17,
-                "templateId": 1271,
-                "name": "Foretta (Paraanon Ravine)"
-            },
-            {
-                "huntingZoneId": 23,
-                "templateId": 1271,
-                "name": "Foretta (Lake of Tears)"
-            },
-            {
-                "huntingZoneId": 18,
-                "templateId": 1271,
-                "name": "Viadu (Colossal Ruins)"
-            },
-            {
-                "huntingZoneId": 19,
-                "templateId": 1271,
-                "name": "Viadu (Freeholds)"
-            },
-            {
-                "huntingZoneId": 21,
-                "templateId": 1271,
-                "name": "Viadu (Basilisk Crag)"
-            },
-            {
-                "huntingZoneId": 24,
-                "templateId": 1271,
-                "name": "Viadu (Aurum Road)"
-            },
-            {
-                "huntingZoneId": 26,
-                "templateId": 1271,
-                "name": "Ezart (Blessing Basin)"
-            },
-            {
-                "huntingZoneId": 27,
-                "templateId": 1271,
-                "name": "Ezart (Essenian Crest)"
-            },
-            {
-                "huntingZoneId": 28,
-                "templateId": 1271,
-                "name": "Ezart (Blightwood)"
-            },
-            {
-                "huntingZoneId": 29,
-                "templateId": 1271,
-                "name": "Ezart (Timeless Woods)"
-            },
-            {
-                "huntingZoneId": 30,
-                "templateId": 1271,
-                "name": "Versa (Balder's Refuge)"
-            },
-            {
-                "huntingZoneId": 31,
-                "templateId": 1271,
-                "name": "Storan (Tempest Reach)"
-            },
-            {
-                "huntingZoneId": 32,
-                "templateId": 1271,
-                "name": "Storan (Mount Tyrannas)"
-            },
-            {
-                "huntingZoneId": 34,
-                "templateId": 1271,
-                "name": "Storan (Frost Reach)"
-            },
-            {
-                "huntingZoneId": 35,
-                "templateId": 1271,
-                "name": "Viace (Wyrmgorge)"
-            },
-            {
-                "huntingZoneId": 36,
-                "templateId": 1271,
-                "name": "Viace (Tor Exsul)"
-            },
-            {
-                "huntingZoneId": 38,
-                "templateId": 1271,
-                "name": "Viace (Sienna Canyon)"
-            },
-            {
-                "huntingZoneId": 40,
-                "templateId": 1271,
-                "name": "Vaneva (Quarantine Zone)"
-            },
-            {
-                "huntingZoneId": 41,
-                "templateId": 1271,
-                "name": "Vaneva (Feral Valley)"
-            },
-            {
-                "huntingZoneId": 45,
-                "templateId": 1271,
-                "name": "Lotica (Thrallhold)"
-            },
-            {
-                "huntingZoneId": 47,
-                "templateId": 1271,
-                "name": "Lotica (Tirkai Forest)"
-            },
-            {
-                "huntingZoneId": 48,
-                "templateId": 1271,
-                "name": "Hecurn (Khanovar Front)"
-            },
-            {
-                "huntingZoneId": 49,
-                "templateId": 1271,
-                "name": "Locarnum (Argonea)"
-            },
-            {
-                "huntingZoneId": 50,
-                "templateId": 1271,
-                "name": "Locarnum (Granarkus)"
-            },
-            {
-                "huntingZoneId": 51,
-                "templateId": 1271,
-                "name": "Loahcun (Vale of Spires)"
-            },
-            {
-                "huntingZoneId": 52,
-                "templateId": 1271,
-                "name": "Loahcun (Plain of the Damned)"
-            },
-            {
-                "huntingZoneId": 54,
-                "templateId": 1271,
-                "name": "Silvette (Seeliewood)"
-            },
-            {
-                "huntingZoneId": 55,
-                "templateId": 1271,
-                "name": "Silvette (Darkquaver Woods)"
-            },
-            {
-                "huntingZoneId": 56,
-                "templateId": 1271,
-                "name": "Silvette (Sussurrus Woods)"
-            },
-            {
-                "huntingZoneId": 57,
-                "templateId": 1271,
-                "name": "Silvette (Amena Quatla)"
-            },
-            {
-                "huntingZoneId": 172,
-                "templateId": 1271,
-                "name": "Varrek (Savage Reach)"
-            },
-            {
-                "huntingZoneId": 181,
-                "templateId": 1271,
-                "name": "Varrek (Ex Prima)"
-            },
-            {
-                "huntingZoneId": 182,
-                "templateId": 1271,
-                "name": "Varrek (Spring Valley)"
-            },
-            {
-                "huntingZoneId": 183,
-                "templateId": 1278,
-                "name": "Varrek (Highwatch Outskirts)"
-            },
-            {
-                "huntingZoneId": 191,
-                "templateId": 1271,
-                "name": "Varrek (Arx Umbra)"
-            },
-            {
-                "huntingZoneId": 13,
-                "templateId": 1271,
-                "name": "Vardung (Island of Dawn)"
-            },
-            {
-                "huntingZoneId": 63,
-                "templateId": 1278,
-                "name": "Veracun (Velika)"
-            },
-            {
-                "huntingZoneId": 72,
-                "templateId": 1278,
-                "name": "Alluman (Allemantheia)"
-            },
-            {
-                "huntingZoneId": 84,
-                "templateId": 1278,
-                "name": "Kaidera (Kaiator)"
-            },
-            {
-                "huntingZoneId": 63,
-                "templateId": 1271,
-                "name": "Petam (Velika)"
-            },
-            {
-                "huntingZoneId": 63,
-                "templateId": 1279,
-                "name": "Petam (Velika)"
-            },
-            {
-                "huntingZoneId": 72,
-                "templateId": 1271,
-                "name": "Hemusk (Allemantheia)"
-            },
-            {
-                "huntingZoneId": 84,
-                "templateId": 1271,
-                "name": "Kaylight (Kaiator)"
-            },
-            {
-                "huntingZoneId": 183,
-                "templateId": 1271,
-                "name": "Jondo (Highwatch Outskirts)"
-            },
-            {
-                "huntingZoneId": 63,
-                "templateId": 1276,
-                "logTime": 0,
-                "name": "Starc (Velika)"
-            },
-            {
-                "huntingZoneId": 63,
-                "templateId": 1284,
-                "name": "Starc (Velika)"
-            },
-            {
-                "huntingZoneId": 84,
-                "templateId": 1276,
-                "logTime": 1572094476769,
-                "name": "Starc (Kaiator)"
-            },
-            {
-                "huntingZoneId": 72,
-                "templateId": 1276,
-                "logTime": 1575723348869,
-                "name": "Starc (Allemantheia)"
-            },
-            {
-                "huntingZoneId": 183,
-                "templateId": 1276,
-                "logTime": 0,
-                "name": "Starc (Highwatch Outskirts)"
-            },
-            {
-                "huntingZoneId": 26,
-                "templateId": 5001,
-                "logTime": 1575738507002,
-                "name": "Ortan"
-            },
-            {
-                "huntingZoneId": 39,
-                "templateId": 501,
-                "logTime": 1575739765576,
-                "name": "Hazard"
-            },
-            {
-                "huntingZoneId": 51,
-                "templateId": 4001,
-                "logTime": 1575737308663,
-                "name": "Cerrus"
-            },
-            {
-                "huntingZoneId": 1023,
-                "templateId": 8000,
-                "name": "Caiman Wanderer"
-            },
-            {
-                "huntingZoneId": 2020,
-                "templateId": 1100,
-                "name": "Supreme Draakon Pursuer"
-            },
-            {
-                "huntingZoneId": 2020,
-                "templateId": 1101,
-                "name": "Draakon Guard-Captain"
-            },
-            {
-                "huntingZoneId": 2020,
-                "templateId": 1102,
-                "name": "Supreme Draakon Dominator"
-            },
-            {
-                "huntingZoneId": 2020,
-                "templateId": 1200,
-                "name": "Elite Naga Priest"
-            },
-            {
-                "huntingZoneId": 2020,
-                "templateId": 1201,
-                "name": "Elite Naga Knight"
-            },
-            {
-                "huntingZoneId": 2020,
-                "templateId": 1202,
-                "name": "Elite Naga Executioner"
-            },
-            {
-                "huntingZoneId": 2020,
-                "templateId": 1300,
-                "name": "Manuk"
-            },
-            {
-                "huntingZoneId": 2020,
-                "templateId": 1400,
-                "name": "Axcellob"
-            },
-            {
-                "huntingZoneId": 2020,
-                "templateId": 1500,
-                "name": "Zemces"
-            },
-            {
-                "huntingZoneId": 2020,
-                "templateId": 1600,
-                "name": "Red-Flecked Crab"
-            },
-            {
-                "huntingZoneId": 2020,
-                "templateId": 1601,
-                "name": "Thorny Eyestalker"
-            },
-            {
-                "huntingZoneId": 2020,
-                "templateId": 1700,
-                "name": "Vekes"
-            }
-        ]
-    }
+			{
+				"huntingZoneId": 2,
+				"templateId": 1271,
+				"name": "Arcun (Fey Forest)"
+			},
+			{
+				"huntingZoneId": 3,
+				"templateId": 1271,
+				"name": "Arcun (Oblivion Woods)"
+			},
+			{
+				"huntingZoneId": 5,
+				"templateId": 1271,
+				"name": "Arcun (Tuwangi Mire)"
+			},
+			{
+				"huntingZoneId": 6,
+				"templateId": 1271,
+				"name": "Arcun (Valley of Titans)"
+			},
+			{
+				"huntingZoneId": 7,
+				"templateId": 1271,
+				"name": "Arcun (Celestial Hills)"
+			},
+			{
+				"huntingZoneId": 4,
+				"templateId": 1271,
+				"name": "Eteral (Fyrmount)"
+			},
+			{
+				"huntingZoneId": 9,
+				"templateId": 1271,
+				"name": "Eteral (Ascension Valley)"
+			},
+			{
+				"huntingZoneId": 10,
+				"templateId": 1271,
+				"name": "Eteral (Serpentis Isle)"
+			},
+			{
+				"huntingZoneId": 11,
+				"templateId": 1271,
+				"name": "Eteral (Jagged Coast)"
+			},
+			{
+				"huntingZoneId": 12,
+				"templateId": 1271,
+				"name": "Eteral (Mistmoor Island)"
+			},
+			{
+				"huntingZoneId": 15,
+				"templateId": 1271,
+				"name": "Foretta (Cliffs of Insanity)"
+			},
+			{
+				"huntingZoneId": 16,
+				"templateId": 1271,
+				"name": "Foretta (Vale of the Fang)"
+			},
+			{
+				"huntingZoneId": 17,
+				"templateId": 1271,
+				"name": "Foretta (Paraanon Ravine)"
+			},
+			{
+				"huntingZoneId": 23,
+				"templateId": 1271,
+				"name": "Foretta (Lake of Tears)"
+			},
+			{
+				"huntingZoneId": 18,
+				"templateId": 1271,
+				"name": "Viadu (Colossal Ruins)"
+			},
+			{
+				"huntingZoneId": 19,
+				"templateId": 1271,
+				"name": "Viadu (Freeholds)"
+			},
+			{
+				"huntingZoneId": 21,
+				"templateId": 1271,
+				"name": "Viadu (Basilisk Crag)"
+			},
+			{
+				"huntingZoneId": 24,
+				"templateId": 1271,
+				"name": "Viadu (Aurum Road)"
+			},
+			{
+				"huntingZoneId": 26,
+				"templateId": 1271,
+				"name": "Ezart (Blessing Basin)"
+			},
+			{
+				"huntingZoneId": 27,
+				"templateId": 1271,
+				"name": "Ezart (Essenian Crest)"
+			},
+			{
+				"huntingZoneId": 28,
+				"templateId": 1271,
+				"name": "Ezart (Blightwood)"
+			},
+			{
+				"huntingZoneId": 29,
+				"templateId": 1271,
+				"name": "Ezart (Timeless Woods)"
+			},
+			{
+				"huntingZoneId": 30,
+				"templateId": 1271,
+				"name": "Versa (Balder's Refuge)"
+			},
+			{
+				"huntingZoneId": 31,
+				"templateId": 1271,
+				"name": "Storan (Tempest Reach)"
+			},
+			{
+				"huntingZoneId": 32,
+				"templateId": 1271,
+				"name": "Storan (Mount Tyrannas)"
+			},
+			{
+				"huntingZoneId": 34,
+				"templateId": 1271,
+				"name": "Storan (Frost Reach)"
+			},
+			{
+				"huntingZoneId": 35,
+				"templateId": 1271,
+				"name": "Viace (Wyrmgorge)"
+			},
+			{
+				"huntingZoneId": 36,
+				"templateId": 1271,
+				"name": "Viace (Tor Exsul)"
+			},
+			{
+				"huntingZoneId": 38,
+				"templateId": 1271,
+				"name": "Viace (Sienna Canyon)"
+			},
+			{
+				"huntingZoneId": 40,
+				"templateId": 1271,
+				"name": "Vaneva (Quarantine Zone)"
+			},
+			{
+				"huntingZoneId": 41,
+				"templateId": 1271,
+				"name": "Vaneva (Feral Valley)"
+			},
+			{
+				"huntingZoneId": 45,
+				"templateId": 1271,
+				"name": "Lotica (Thrallhold)"
+			},
+			{
+				"huntingZoneId": 47,
+				"templateId": 1271,
+				"name": "Lotica (Tirkai Forest)"
+			},
+			{
+				"huntingZoneId": 48,
+				"templateId": 1271,
+				"name": "Hecurn (Khanovar Front)"
+			},
+			{
+				"huntingZoneId": 49,
+				"templateId": 1271,
+				"name": "Locarnum (Argonea)"
+			},
+			{
+				"huntingZoneId": 50,
+				"templateId": 1271,
+				"name": "Locarnum (Granarkus)"
+			},
+			{
+				"huntingZoneId": 51,
+				"templateId": 1271,
+				"name": "Loahcun (Vale of Spires)"
+			},
+			{
+				"huntingZoneId": 52,
+				"templateId": 1271,
+			"name": "Loahcun (Plain of the Damned)"
+			},
+			{
+				"huntingZoneId": 54,
+				"templateId": 1271,
+				"name": "Silvette (Seeliewood)"
+			},
+			{
+				"huntingZoneId": 55,
+				"templateId": 1271,
+				"name": "Silvette (Darkquaver Woods)"
+			},
+			{
+				"huntingZoneId": 56,
+				"templateId": 1271,
+				"name": "Silvette (Sussurrus Woods)"
+			},
+			{
+				"huntingZoneId": 57,
+				"templateId": 1271,
+				"name": "Silvette (Amena Quatla)"
+			},
+			{
+				"huntingZoneId": 172,
+				"templateId": 1271,
+				"name": "Varrek (Savage Reach)"
+			},
+			{
+				"huntingZoneId": 181,
+				"templateId": 1271,
+				"name": "Varrek (Ex Prima)"
+			},
+			{
+				"huntingZoneId": 182,
+				"templateId": 1271,
+				"name": "Varrek (Spring Valley)"
+			},
+			{
+				"huntingZoneId": 183,
+				"templateId": 1278,
+				"name": "Varrek (Highwatch Outskirts)"
+			},
+			{
+				"huntingZoneId": 191,
+				"templateId": 1271,
+				"name": "Varrek (Arx Umbra)"
+			},
+			{
+				"huntingZoneId": 13,
+				"templateId": 1271,
+				"name": "Vardung (Island of Dawn)"
+			},
+			{
+				"huntingZoneId": 63,
+				"templateId": 1278,
+				"name": "Veracun (Velika)"
+			},
+			{
+				"huntingZoneId": 72,
+				"templateId": 1278,
+				"name": "Alluman (Allemantheia)"
+			},
+			{
+				"huntingZoneId": 84,
+				"templateId": 1278,
+				"name": "Kaidera (Kaiator)"
+			},
+			{
+				"huntingZoneId": 63,
+				"templateId": 1271,
+				"name": "Petam (Velika)"
+			},
+			{
+				"huntingZoneId": 63,
+				"templateId": 1279,
+				"name": "Petam (Velika)"
+			},
+			{
+				"huntingZoneId": 72,
+				"templateId": 1271,
+				"name": "Hemusk (Allemantheia)"
+			},
+			{
+				"huntingZoneId": 84,
+				"templateId": 1271,
+				"name": "Kaylight (Kaiator)"
+			},
+			{
+				"huntingZoneId": 183,
+				"templateId": 1271,
+				"name": "Jondo (Highwatch Outskirts)"
+			},
+			{
+				"huntingZoneId": 63,
+				"templateId": 1276,
+				"logTime": 0,
+				"name": "Starc (Velika)"
+			},
+			{
+				"huntingZoneId": 63,
+				"templateId": 1284,
+				"name": "Starc (Velika)"
+			},
+			{
+				"huntingZoneId": 84,
+				"templateId": 1276,
+				"logTime": 1572094476769,
+				"name": "Starc (Kaiator)"
+			},
+			{
+				"huntingZoneId": 72,
+				"templateId": 1276,
+				"logTime": 1575723348869,
+				"name": "Starc (Allemantheia)"
+			},
+			{
+				"huntingZoneId": 183,
+				"templateId": 1276,
+				"logTime": 0,
+				"name": "Starc (Highwatch Outskirts)"
+			},
+			{
+				"huntingZoneId": 26,
+				"templateId": 5001,
+				"logTime": 1575738507002,
+				"name": "Ortan"
+			},
+			{
+				"huntingZoneId": 39,
+				"templateId": 501,
+				"logTime": 1575739765576,
+				"name": "Hazard"
+			},
+			{
+				"huntingZoneId": 51,
+				"templateId": 4001,
+				"logTime": 1575737308663,
+				"name": "Cerrus"
+			},
+			{
+				"huntingZoneId": 1023,
+				"templateId": 8000,
+				"name": "Caiman Wanderer"
+			},
+			{
+				"huntingZoneId": 2020,
+				"templateId": 1100,
+				"name": "Supreme Draakon Pursuer"
+			},
+			{
+				"huntingZoneId": 2020,
+				"templateId": 1101,
+				"name": "Draakon Guard-Captain"
+			},
+			{
+				"huntingZoneId": 2020,
+				"templateId": 1102,
+				"name": "Supreme Draakon Dominator"
+			},
+			{
+				"huntingZoneId": 2020,
+				"templateId": 1200,
+				"name": "Elite Naga Priest"
+			},
+			{
+				"huntingZoneId": 2020,
+				"templateId": 1201,
+				"name": "Elite Naga Knight"
+			},
+			{
+				"huntingZoneId": 2020,
+				"templateId": 1202,
+				"name": "Elite Naga Executioner"
+			},
+			{
+				"huntingZoneId": 2020,
+				"templateId": 1300,
+				"name": "Manuk"
+			},
+			{
+				"huntingZoneId": 2020,
+				"templateId": 1400,
+				"name": "Axcellob"
+			},
+			{
+				"huntingZoneId": 2020,
+				"templateId": 1500,
+				"name": "Zemces"
+			},
+			{
+				"huntingZoneId": 2020,
+				"templateId": 1600,
+				"name": "Red-Flecked Crab"
+			},
+			{
+				"huntingZoneId": 2020,
+				"templateId": 1601,
+				"name": "Thorny Eyestalker"
+			},
+			{
+				"huntingZoneId": 2020,
+				"templateId": 1700,
+				"name": "Vekes"
+			}
+		]
+	}
 }
