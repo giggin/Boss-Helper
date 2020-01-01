@@ -288,7 +288,7 @@ module.exports = function BossHelper(mod) {
 		gage_info.curHp = gage_info.maxHp;
 		correct_hp(e.hpLevel);
 		if (e.mode) {
-			mod.command.message('Вы пропустили ~ <font color="#E69F00">' + Math.round((99999999 - e.remainingEnrageTime)/1000) + '</font> сек. боя');
+			mod.command.message('You missed ~ <font color="#E69F00">' + Math.round((99999999 - e.remainingEnrageTime)/1000) + '</font> sec. of fight');
 		}
 		
 		if (e.hpLevel == 5) {
