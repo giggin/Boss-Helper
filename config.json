@@ -6,7 +6,7 @@
         "notice": true,
         "messager": true,
         "marker": true,
-        "itemId": 98260,
+        "itemId": 88704,
         "bosses": [
             {
                 "huntingZoneId": 1023,
@@ -367,7 +367,7 @@
             {
                 "huntingZoneId": 84,
                 "templateId": 1276,
-                "logTime": 1572094476769,
+                "logTime": 1586695272567,
                 "name": "Starc (Kaiator)"
             },
             {
@@ -385,19 +385,19 @@
             {
                 "huntingZoneId": 26,
                 "templateId": 5001,
-                "logTime": 1577892415620,
+                "logTime": 1586694090335,
                 "name": "Ortan"
             },
             {
                 "huntingZoneId": 39,
                 "templateId": 501,
-                "logTime": 1577890054092,
+                "logTime": 1586693059138,
                 "name": "Hazard"
             },
             {
                 "huntingZoneId": 51,
                 "templateId": 4001,
-                "logTime": 1575737308663,
+                "logTime": 1586695709831,
                 "name": "Cerrus"
             },
             {

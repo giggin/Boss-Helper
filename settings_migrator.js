@@ -4,7 +4,7 @@ const DefaultSettings = {
 	"notice":   true, // Pop-up notification
 	"messager": true, // Message
 	"marker":   true, // Lootbeam
-	"itemId":  98260, // Vergo's Head
+	"itemId":  88704, // Velika's Banquet Coin
 	"bosses": [
 		{huntingZoneId: 1023, templateId:     3000, name: "(Event)Dakuryon's Shade"},
 		{huntingZoneId: 1023, templateId: 20150805, name: "(Event)Dakuryon's Shade"},
