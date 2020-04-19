@@ -397,36 +397,36 @@
                 "logTime": 1586695709831,
                 "name": "Cerrus"
             },
-			{
-				"huntingZoneId: 57,
-				"templateId: 33,
-				"name": "Betsael"
-			},
-			{
-				"huntingZoneId: 10,
-				"templateId: 99,
-				"name": "Divine Reaver"
-			},
-			{
-				"huntingZoneId: 51,
-				"templateId: 7011,
-				"name": "Linyphi"
-			},
-			{
-				"huntingZoneId: 38,
-				"templateId: 35,
-				"name": "Nyxarras"
-			},
-			{
-				"huntingZoneId: 4,
-				"templateId: 5011,
-				"name": "Tempest Kanash"
-			},
-			{
-				"huntingZoneId: 52,
-				"templateId: 9050,
-				"name": "Yunaras Snaggletooth"
-			},
+            {
+                "huntingZoneId": 57,
+                "templateId": 33,
+                "name": "Betsael"
+            },
+            {
+                "huntingZoneId": 10,
+                "templateId": 99,
+                "name": "Divine Reaver"
+            },
+            {
+                "huntingZoneId": 51,
+                "templateId": 7011,
+                "name": "Linyphi"
+            },
+            {
+                "huntingZoneId": 38,
+                "templateId": 35,
+                "name": "Nyxarras"
+            },
+            {
+                "huntingZoneId": 4,
+                "templateId": 5011,
+                "name": "Tempest Kanash"
+            },
+            {
+                "huntingZoneId": 52,
+                "templateId": 9050,
+                "name": "Yunaras Snaggletooth"
+            },
             {
                 "huntingZoneId": 1023,
                 "templateId": 8000,
