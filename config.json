@@ -367,31 +367,28 @@
             {
                 "huntingZoneId": 84,
                 "templateId": 1276,
-                "logTime": 1586695272567,
                 "name": "Starc (Kaiator)"
             },
             {
                 "huntingZoneId": 72,
                 "templateId": 1276,
-                "logTime": 1575723348869,
                 "name": "Starc (Allemantheia)"
             },
             {
                 "huntingZoneId": 183,
                 "templateId": 1276,
-                "logTime": 0,
                 "name": "Starc (Highwatch Outskirts)"
             },
             {
                 "huntingZoneId": 26,
                 "templateId": 5001,
-                "logTime": 1586694090335,
+                "logTime": 1587299587891,
                 "name": "Ortan"
             },
             {
                 "huntingZoneId": 39,
                 "templateId": 501,
-                "logTime": 1586693059138,
+                "logTime": 1587291762701,
                 "name": "Hazard"
             },
             {
@@ -400,6 +397,36 @@
                 "logTime": 1586695709831,
                 "name": "Cerrus"
             },
+			{
+				"huntingZoneId: 57,
+				"templateId: 33,
+				"name": "Betsael"
+			},
+			{
+				"huntingZoneId: 10,
+				"templateId: 99,
+				"name": "Divine Reaver"
+			},
+			{
+				"huntingZoneId: 51,
+				"templateId: 7011,
+				"name": "Linyphi"
+			},
+			{
+				"huntingZoneId: 38,
+				"templateId: 35,
+				"name": "Nyxarras"
+			},
+			{
+				"huntingZoneId: 4,
+				"templateId: 5011,
+				"name": "Tempest Kanash"
+			},
+			{
+				"huntingZoneId: 52,
+				"templateId: 9050,
+				"name": "Yunaras Snaggletooth"
+			},
             {
                 "huntingZoneId": 1023,
                 "templateId": 8000,
