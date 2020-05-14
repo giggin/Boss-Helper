@@ -427,6 +427,21 @@
                 "templateId": 9050,
                 "name": "Yunaras Snaggletooth"
             },
+			{
+				"huntingZoneId": 34,
+				"templateId": 2003,
+				"name": "Sabranak"
+			},
+			{
+				"huntingZoneId": 34,
+				"templateId": 2002,
+				"name": "Frygaras"
+			},
+			{
+				"huntingZoneId": 29,
+				"templateId": 2001,
+				"name": "Anansha"
+			},
             {
                 "huntingZoneId": 1023,
                 "templateId": 8000,

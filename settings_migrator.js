@@ -99,6 +99,9 @@ const DefaultSettings = {
 		{huntingZoneId:  38, templateId:   35, name: "Nyxarras"},
 		{huntingZoneId:   4, templateId: 5011, name: "Tempest Kanash"},
 		{huntingZoneId:  52, templateId: 9050, name: "Yunaras Snaggletooth"},
+		{huntingZoneId:  34, templateId: 2003, name: "Sabranak"},
+		{huntingZoneId:  34, templateId: 2002, name: "Frygaras"},
+		{huntingZoneId:  29, templateId: 2001, name: "Anansha"},
 /* ==== 空岛稀有 ======================================================================================== */
 		{huntingZoneId: 2020, templateId: 1100, name: "Supreme Draakon Pursuer"},
 		{huntingZoneId: 2020, templateId: 1101, name: "Draakon Guard-Captain"},
