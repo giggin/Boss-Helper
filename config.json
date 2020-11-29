@@ -73,27 +73,27 @@
                 "templateId": 200003,
                 "name": "(Event)Tiny Santa"
             },
-			{
+            {
                 "huntingZoneId": 1023,
                 "templateId": 200030,
                 "name": "(Event)Underworld Shadow"
             },
-			{
+            {
                 "huntingZoneId": 1023,
                 "templateId": 200031,
                 "name": "(Event)Underworld Nightmare"
             },
-			{
+            {
                 "huntingZoneId": 1023,
                 "templateId": 200032,
                 "name": "(Event)Underworld Horror"
             },
-			{
+            {
                 "huntingZoneId": 1023,
                 "templateId": 200033,
                 "name": "(Event)Underworld Devil"
             },
-			{
+            {
                 "huntingZoneId": 1023,
                 "templateId": 200034,
                 "name": "(Event)Underworld Devil"
@@ -413,7 +413,7 @@
             {
                 "huntingZoneId": 39,
                 "templateId": 501,
-                "logTime": 1587291762701,
+                "logTime": 1600613782563,
                 "name": "Hazard"
             },
             {

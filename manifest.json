@@ -1,8 +1,8 @@
 {
     "files": {
         "README.md": "6166b43e71366c4d131a3358c51126597d22ca9338ef8e0424e4d5290e692caa",
-        "config.json": "dfc5e614d5088cccfb9b47c2ca13b09034d5bf48cee7293da86f1426bc09c072",
-        "index.js": "e1b8ded3b1edf4c8d24bc1a932d3b237d4106ce17d533e897ad3e33efc67d839",
+        "config.json": "123d4865b455a5dd1d02fc8d2e19f1fe105430939b3491fce126254d3af9c52b",
+        "index.js": "fccc3da6a62b135c024b47151c5b37024c27b72c8a64a1928e5276da883ef5aa",
         "module.json": "9ab2f08d44a44c2aadad40a2ea8f4e20685e8507de04081013c467ff739209b8",
         "settings_migrator.js": "8ae400e43b7eadb8f6ef80b76b62edf1c0fc2d7fac8819bd6d8580e3be13b239"
     },
@@ -12,7 +12,7 @@
         "S_DESPAWN_NPC": 3,
         "S_EACH_SKILL_RESULT": 14,
         "S_NPC_STATUS": 2,
-        "S_SPAWN_DROPITEM": 8,
+        "S_SPAWN_DROPITEM": 9,
         "S_SPAWN_NPC": 11,
         "S_SYSTEM_MESSAGE": 1
     }
